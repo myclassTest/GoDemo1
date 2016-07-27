@@ -1,0 +1,5 @@
+项目路径：D:\goProject\code
+1、添加MVC文件夹
+2、安装Bee工具，在命令行运行:go get github.com/astaxie/bee 安装Beego框架,在命令行中运行: go get github.com/astaxie/beego
+3、开始main.go编辑
+  * 监听进程及端口 netstat -ano
